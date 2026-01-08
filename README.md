@@ -72,7 +72,7 @@
 
 <div style="display: flex; flex-direction: column; gap: 25px;">
 
-### 💻 Desarrollador de Software (2024-2025)
+### 💻 Desarrollador de Software (2024-Actualmente)
 **Independiente**
 <div style="background: linear-gradient(135deg, #1a2980 0%, #26d0ce 100%); padding: 20px; border-radius: 15px; color: white;">
   
